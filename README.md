@@ -17,3 +17,10 @@ source venv/bin/activate
 
 Give me an example of how to run/use the project!
 
+
+Run this command to get started:
+
+```
+python python/main.py
+```
+
